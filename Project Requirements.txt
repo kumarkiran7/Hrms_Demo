@@ -1,0 +1,8 @@
+Kiran, Srikanth
+Employee Management: 
+This component is responsible for managing employee-related information. 
+It includes functionalities like 
+employee profiles- NAME,PHONE NUMBER,EMAIL,DOB,EMP ID,BLOOD GROUP
+personal details -,EMERGENCY NUMBER,PERMAINENT ADDRESS,PRESENT ADDRESS,FATHER NAME,MOTHER NAME,QUALIFICATION
+employment history- PERIOUS COMPANY NAME,DESIGNATION,LOCATION,DATE OF EMPLOYEMENT,EXPERIANCE,ACHIEVEMENTS
+salary management-
